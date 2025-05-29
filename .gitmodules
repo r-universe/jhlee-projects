@@ -1,5 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "KDEmcmc"]
+	path = KDEmcmc
+	url = https://github.com/cran/KDEmcmc
+[submodule "LARisk"]
+	path = LARisk
+	url = https://github.com/cran/LARisk
