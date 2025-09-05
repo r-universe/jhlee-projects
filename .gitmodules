@@ -8,3 +8,6 @@
 [submodule "LARisk"]
 	path = LARisk
 	url = https://github.com/cran/LARisk
+[submodule "synMicrodata"]
+	path = synMicrodata
+	url = https://github.com/cran/synMicrodata
